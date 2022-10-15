@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @alizarghamiii5280
-- 👀 I’m abadani
-- 🌱 I’m alone,always
+-@alizarghamiii5280
+- abadani
+-alone,always
 
 
 <!---
